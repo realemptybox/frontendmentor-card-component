@@ -21,7 +21,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### The challenge
 
 
-The challenge was was given to me is to build out this card component and get it looking as close to the design as possible.
+The challenge that was given to me is to build out this card component and get it looking as close to the design as possible.
 
 I could use any tools I like to help me complete the challenge. 
 
@@ -52,7 +52,7 @@ I learned more about spacing and positioning elements, what resulted in a better
 
 ### Continued development
 
-I am more focussing on margings, paddings, and css-grid kind of stuff. I still have a lot to learn and practise about css-grid, floats, flexbox and more.
+I am strugglin with margins, paddings. In fact, I still have a lot to learn and practise about css-grid, floats, flexbox and more.
 
 
 
