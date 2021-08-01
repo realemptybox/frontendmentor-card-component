@@ -34,8 +34,10 @@ I could use any tools I like to help me complete the challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/a-card-component-using-html5-and-css3-CWxeS1UFQ)
 - Live Site URL: [Netlify](https://serene-brown-2fdcd5.netlify.app/)
+
+**NOTE: Please don't judge on the preview stated on frontendmentor.**
 
 ## My process
 
