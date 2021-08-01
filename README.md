@@ -59,4 +59,4 @@ I am more focussing on margings, paddings, and css-grid kind of stuff. I still h
 ## Author
 
 - Frontend Mentor - [@realemptybox](https://www.frontendmentor.io/profile/realemptybox)
-- Discord - [emptybox#0001]
+- Discord - emptybox#0001
